@@ -18,3 +18,6 @@ We will find answers to questins like: -
 - What is the trend of accidents year over year (decreasing/increasing?)
 - On which side of the road most of the accidents occured?
 - How did the weather conditions affected the cases?
+
+## Dataset
+Link to the US Accidents dataset: https://www.kaggle.com/sobhanmoosavi/us-accidents
